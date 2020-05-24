@@ -4,4 +4,5 @@ VBA-Challenge to make a Stock market Analysis.
 ## Background
 This project is a VBA scripting to analyze real stock market data.
 
-[![Watch the video](Images/BabyishBetterHammerheadbird-mobile.mp4)
+[![asciicast](https://gfycat.com/babyishbetterhammerheadbird)]
+
