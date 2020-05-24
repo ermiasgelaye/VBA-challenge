@@ -28,7 +28,7 @@ Source: https://gfycat.com/babyishbetterhammerheadbird
 
 ## Solution 4 Total stock Volume
 
-*The total stock volume also genereated on "L" column. 
+* The total stock volume also genereated on "L" column. 
 
 ## Solution 5 Greatest 
 * At last not the list the solution also provide the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
