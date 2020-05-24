@@ -6,4 +6,5 @@ This project is a VBA scripting to analyze real stock market data.
 
 
 ![img](Images/ezgif.com-video-to-gif.gif)
+
 Source: https://gfycat.com/babyishbetterhammerheadbird
