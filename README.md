@@ -2,7 +2,7 @@
 VBA-Challenge to make a Stock Market Analysis.
 
 ## Background
-This project is a VBA scripting to analyze real stock market data.This analysis used two data-points one is the [Test Data ](./VBA_Alphabetical_testing/alphabetical_testing.xlsm) which is used while developing the script, and the other is [Stock Data](./VBA_Stock_data/Multiple_year_stock_data.xlsm) which is the main data to run the script. The data is sourced into Excel Microsoft Office, the test data have 7 sheets(A-P) the size of this file is small used for testing. The stock data has three sheets categorized yearly 2014, 2015, 2016. This file has a bigger size, it may take time when you execute the script into the file. The VBA scripts also found in both file directories.
+This project is a VBA scripting to analyze real stock market data.This analysis used two data-points one is the [Test Data ](./VBA_Alphabetical_testing/alphabetical_testing.xlsm) which is used while developing the script, and the other is [Stock Data](./VBA_Stock_data/Multiple_year_stock_data.xlsm) which is the main data to run the script. The data is sourced into Excel Microsoft Office, the test data have 7 sheets(A-P) the size of this file is smaller and used for testing. The stock data or the main data has three sheets categorized yearly 2014, 2015, 2016. This file is bigger in size, it may take time when you execute the script into the file. The VBA scripts also found in both data points file directories.
 
 [Test Data ](./VBA_Alphabetical_testing/alphabetical_testing.vbs) vbs file &
 [Stock Data](./VBA_Stock_data/Stock_Market_Analysiss.vbs) vbs file
@@ -16,7 +16,7 @@ The script loop through all the stocks data once and the following information d
 
 ## Solution 1 Ticker Symbol
 
-The script will sort the distinct ticker symbol in one column in column "I" with a column header "Ticker".
+The script will sort the distinct ticker symbol in one column in column "I" with a column header ![#f03c15]("Ticker")`#f03c15`.
 
 ## Solution 2 Yearly Change
 
