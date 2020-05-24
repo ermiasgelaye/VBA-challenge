@@ -35,12 +35,12 @@ At last not the list the solution also provide the stock with the "Greatest % in
 
 The solution will look as follows:
 ## 2014 Stock Data
-![2014](/images/2014.png)
+![2014](Images/2014.png)
 
 ## 2015 Stock Data
-![2015](/images/2015.png)
+![2015](Images/2015.png)
 ## 2016 Stock Data
-![2016](/images/2015.png)
+![2016](Images/2016.png)
 
 
 This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-Trilogy Education Services at the University of Trento, continuing studies. The code used learning resources from the class.
