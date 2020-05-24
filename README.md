@@ -16,7 +16,7 @@ The script loop through all the stocks data once and the following information d
 
 ## Solution 1 Ticker Symbol
 
-The script will sort the distinct ticker symbol in one column in column "I" with a column header ![#f03c15]("Ticker")`#f03c15`.
+The script will sort the distinct ticker symbol in one column in column "I" with a column header "Ticker.
 
 ## Solution 2 Yearly Change
 
