@@ -8,6 +8,7 @@ This project is a VBA scripting to analyze real stock market data.This analysis 
 [Stock Data](./VBA_Stock_data/Stock_Market_Analysiss.vbs) vbs file
 
 ![img](Images/ezgif.gif)
+
 Source: https://gfycat.com/babyishbetterhammerheadbird
 
 ## Solution 
