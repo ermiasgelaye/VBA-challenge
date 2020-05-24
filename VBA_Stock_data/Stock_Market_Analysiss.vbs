@@ -10,7 +10,7 @@ Attribute VB_Exposed = True
 
 Sub StockMarket_Analysis()
 
-'Define all  variables
+
 '--------------------------------------------------
 
 'Define a variable for Ticker
