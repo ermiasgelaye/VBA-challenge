@@ -300,4 +300,5 @@ Next ws
 '--------------------------------------------------
 End Sub
 
-'This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by  Trilogy Education Services at the University of Trento, continuing studies. The code used learning resources from the class. 
+'This Code is compiled and written for the VBA class Homework in the Data Analytics Bootcamp class given by-  
+'Trilogy Education Services at the University of Trento, continuing studies. The code used learning resources from the class. 
